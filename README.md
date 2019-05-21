@@ -1,5 +1,5 @@
 ## React-VideoCall
-Demo app: https://morning-escarpment-67980.herokuapp.com/  
+Demo app: https://radiant-mesa-83723.herokuapp.com/
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/nguymin4/react-videocall/master/docs/ss1.jpg"  alt =" " style="border: solid 1px #d4d4d4" />
   
@@ -19,7 +19,7 @@ cd client && yarn watch
 
 **Deployment**
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nguymin4/react-videocall/tree/production)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)]
 
 **Front-end Technologies:**
 - React
