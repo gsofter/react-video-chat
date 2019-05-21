@@ -1,0 +1,22 @@
+@import "mixin";
+
+html, body {
+	height:100%;
+	width: 100%;
+	color: $main-color;
+	font-size: $main-font-size;
+	// font-family: "Open Sans", "Ubuntu", sans-serif;
+	letter-spacing: 0.5px;
+	
+	.no-animation {
+		* {
+			@include no-animation();
+		}
+	}
+}
+
+input {
+	outline: none;
+}
+
+@import "misc";
